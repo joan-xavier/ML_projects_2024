@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This repo consists of end to end ML projects from various popular datasets
 Project Statement: 
 Portobello  Tech  is  an  app  innovator  who  has  devised  an  intelligent  way  of 
@@ -21,3 +22,6 @@ evaluation.
 5. Perform k-fold cross-validation model training and evaluate performance.  
 6. Identify the best model and justify the evaluation metrics used.  
 7. Suggest various retention strategies for targeted employees
+=======
+ML projects using supervised learning and unsupervised learning algorithms for prediction, classification and clustering problems are available in this Repo
+>>>>>>> 3c74c4afc06d6f2ff7b2a7db7a84c720135f0591
